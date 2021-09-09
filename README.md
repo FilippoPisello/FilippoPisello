@@ -2,7 +2,7 @@
 I'm Filippo and I am a Data Analytics student. Take a look around to see what I am up to.
 
 ## Who I am
-- Stereotype italian :it:
+- Stereotype italian :pizza:
 - Python programmer :snake:
 - Crazy football lover :soccer:
 - Master student :mortar_board:
