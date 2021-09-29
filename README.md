@@ -22,6 +22,8 @@ I'm Filippo and I am a Data Analytics student. Take a look around to see what I 
 - :knife: **Project architecture exercise on old Cluedo project**: tried to apply some design principles to a bit of an old project whose code quality sucked. [Find the repo here!](https://github.com/FilippoPisello/Cluedo)
 ## What I might work on in the future
 - :bar_chart: **Python Project's statistics**: input a python file name or a folder name and output stats like number of files, functions, classes, average function length, line of codes and so on.
-References:
+  - References:
     - https://stackoverflow.com/questions/427453/how-can-i-get-the-source-code-of-a-python-function
     - https://docs.python.org/2/library/inspect.html#retrieving-source-code
+- :money_with_wings: **Personal expenses dashboard**: clean and organize the expenses data coming from my bank account, save them in a mySQL database and create a Tableau dashboard to visualize the key facts. It could also be an occasion to experiment some sort of ML algorithm to automatically categorize the expenses.
+- :mage: **Predict number of goals scored by a football team**: how well - or bad - could one predict the number of goals scored by a football team by looking at past matches data?
