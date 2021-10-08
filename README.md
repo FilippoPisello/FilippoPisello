@@ -10,9 +10,10 @@ I'm Filippo and I am a Data Analytics student. Take a look around to see what I 
 - YouTube intensive user :tv:
 - Data geek :chart_with_upwards_trend:
 
-## Where you can find me
+## Where to find me
 <a target="_blank" href="https://www.linkedin.com/in/filippo-pisello/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a target="_blank" href="https://filippo-pisello.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a target="_blank" href="https://www.instagram.com/filippo.pise/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
 
