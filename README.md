@@ -19,6 +19,7 @@ I'm Filippo and I am a Data Analytics student. Take a look around to see what I 
 
 # My work
 ## What I have been working on recently
+- :books: **Read books tracker**: my first approach both to GUIs and databases. An interface-Model-Database system that allows the user to log information about read books into a MySQL database. [Find the repo here!](https://github.com/FilippoPisello/Books-Read-DB)
 - :mag: **How much do football leaderboards change over time?**: little data-based project to see how much the teams' rankings change over the course of the season. [Find the repo here!](https://github.com/FilippoPisello/First-matches-predictive-power)
 - :knife: **Project architecture exercise on old Cluedo project**: tried to apply some design principles to a bit of an old project whose code quality sucked. [Find the repo here!](https://github.com/FilippoPisello/Cluedo)
 ## What I might work on in the future
