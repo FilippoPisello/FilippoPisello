@@ -18,6 +18,9 @@ I'm Filippo and I am a Data Analytics student. Take a look around to see what I 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
 
 # My work
+## Published packages
+- :ok_hand: **EasyPred**: easily store, investigate, assess and compare the predictions obtained through your Machine Learning models. [Find the repo here!](https://github.com/FilippoPisello/EasyPred)
+
 ## What I have been working on recently
 - :books: **Read books tracker**: my first approach both to GUIs and databases. An interface-Model-Database system that allows the user to log information about read books into a MySQL database. [Find the repo here!](https://github.com/FilippoPisello/Books-Read-DB)
 - :mag: **How much do football leaderboards change over time?**: little data-based project to see how much the teams' rankings change over the course of the season. [Find the repo here!](https://github.com/FilippoPisello/First-matches-predictive-power)
