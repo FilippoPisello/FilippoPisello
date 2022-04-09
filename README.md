@@ -20,6 +20,7 @@ I'm Filippo and I am a Data Analytics student. Take a look around to see what I 
 # My work
 ## Published packages
 - :ok_hand: **EasyPred**: easily store, investigate, assess and compare the predictions obtained through your Machine Learning models. [Find the repo here!](https://github.com/FilippoPisello/EasyPred)
+- :world_map: **SpreadPandas**: get the dimensional mapping of a pandas data frame to a spreadsheet. [Find the repo here!](https://github.com/FilippoPisello/SpreadPandas)
 
 ## What I have been working on recently
 - :books: **Read books tracker**: my first approach both to GUIs and databases. An interface-Model-Database system that allows the user to log information about read books into a MySQL database. [Find the repo here!](https://github.com/FilippoPisello/Books-Read-DB)
