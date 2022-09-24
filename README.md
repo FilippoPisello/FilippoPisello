@@ -1,5 +1,5 @@
 # Welcome!
-I'm Filippo and I am a Data Analytics student. Take a look around to see what I am up to.
+I'm Filippo and I am a Data Analyst at Picnic technology. Take a look around to see what I am up to.
 
 ## Who I am
 - Stereotype italian :pizza:
